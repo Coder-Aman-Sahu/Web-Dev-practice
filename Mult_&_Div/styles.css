@@ -1,0 +1,55 @@
+/* Body styles */
+body {
+    font-family: Arial, sans-serif;
+    font-size: larger;
+    background-color: #191414; /* Spotify black */
+    color: #ffffff; /* White text */
+    padding: 200px;
+    text-align: center; /* Center align all elements */
+}
+
+/* Form styles */
+form {
+    background-color: #282828; /* Dark grey */
+    padding: 10px; /* Reduced padding */
+    border-radius: 5px;
+    text-align: center; /* Center align all elements */
+    max-width: 400px; /* Set maximum width */
+    margin: 0 auto; /* Center the form horizontally */
+}
+
+
+/* Input field styles */
+input[type="text"] {
+    padding: 8px;
+    margin-bottom: 15px;
+    border: #1db954;
+    border-radius: 5px;
+    background-color: #1db954; /* Spotify green */
+    color: #ffffff; /* White text */
+    text-align: center; /* Center align text */
+    text-shadow: #282828;
+    text-size-adjust: 100%;
+}
+
+/* Button styles */
+input[type="button"] {
+    padding: 8px 16px;
+    background-color: #1db954; /* Spotify green */
+    color: #ffffff; /* White text */
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+/* Button hover effect */
+input[type="button"]:hover {
+    background-color: #169245; /* Darker shade of green on hover */
+}
+
+/* Result text styles */
+#result {
+    font-size: 20px;
+    color: #1db954; /* Spotify green */
+    font-weight: bold;
+}
