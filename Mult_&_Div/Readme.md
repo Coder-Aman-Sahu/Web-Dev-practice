@@ -1,4 +1,4 @@
-# Multiplication and Division Calculator
+# Multiplication and Division Calculator🧮
 
 This is a simple calculator program that performs multiplication and division operations. It takes two numbers as input and provides the result of the operation.
 
@@ -8,6 +8,8 @@ This is a simple calculator program that performs multiplication and division op
 - Division: Enter two numbers and get the quotient.
 
 ## Screenshot
+![image](https://github.com/Coder-Aman-Sahu/Web-Dev-practice/assets/113002116/ffc07343-80f4-4ce1-9bfc-be869d255f10)
+![image](https://github.com/Coder-Aman-Sahu/Web-Dev-practice/assets/113002116/11eab28b-978d-475e-9295-66daec5d3172)
 
 
 
