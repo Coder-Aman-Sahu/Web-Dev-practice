@@ -1,0 +1,31 @@
+p{
+    /* background-color : #964B00; */
+    color: red;
+    line-height: 30px;
+}
+h1{
+    color: red;
+}
+h3{
+    color: black;
+}
+h1,h3,p{
+    text-align : center;
+}
+*{
+    font-family: "Georgia";
+}
+a{
+    color: rgb(0,255,0);
+    text-decoration: none;
+}
+button{
+    background-color: white;
+    color: blueviolet;
+}
+textarea{
+    color: #000;
+}
+.underline {
+    text-decoration: underline;
+}
